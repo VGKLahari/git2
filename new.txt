@@ -1,10 +1,13 @@
+
 hello world
 cricket
-<<<<<<< master
 Hii lahari
-=======
+Ok ok
+Bye bye
+hello world
+cricket
+Hii lahari
 Hii
 Helloo
 Cornwall-7
 S
->>>>>>> master
